@@ -12,3 +12,9 @@ A collection of slack sidebar themes
 ```
 #f6f6f6,#d7d5d7,#126cd6,#ffffff,#cecece,#444444,#87dbfa,#fc605c
 ```
+
+# SportsEngine-brandColors
+
+```
+#f2f3f4,#f2f3f4,#008cc3,#ffffff,#F0B428,#23292B,#00A846,#b42846
+```
